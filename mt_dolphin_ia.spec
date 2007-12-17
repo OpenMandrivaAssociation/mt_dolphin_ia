@@ -10,7 +10,6 @@ License: GPL
 Group: Games/Cards
 Source: http://www.nongnu.org/download/maitretarot/%{name}.pkg/%{version}/%{name}-%{version}.tar.bz2
 URL: http://www.nongnu.org/maitretarot/
-BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: glib2-devel libmaitretarot-devel
 BuildRequires: libmt_client-devel
 Provides: maitretarot_ia
