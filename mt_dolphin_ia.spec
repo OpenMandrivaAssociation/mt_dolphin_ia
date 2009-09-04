@@ -1,6 +1,6 @@
 %define name mt_dolphin_ia
 %define version 0.1.98
-%define release %mkrel 8
+%define release %mkrel 9
 
 Summary: The Maitretarot (stupid) IA
 Name: %{name}
